@@ -2,6 +2,9 @@
 
 一个优雅的GitHub趋势项目可视化网站，帮助开发者发现和分析热门开源项目。
 
+![img1](images/demo_black.png)
+![img2](images/demo_white.png)
+
 ## ✨ 功能特点
 
 - 📊 **多维度趋势查看** - 支持按日、周、月查看GitHub热门项目
